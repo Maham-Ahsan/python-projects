@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 [
     {
         "task": "go for shopping",
         "completed": false
     }
+=======
+[
+    {
+        "task": "go for shopping",
+        "completed": false
+    }
+>>>>>>> 16204b51ef87aa776db060f105dee4db89341198
 ]
